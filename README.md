@@ -2,4 +2,4 @@
 
 Normalizing a non-normalized database.
 
-[Reference:](https://mkzia.github.io/eas503-notes/sql/sql_8_normalization.html)
+[Reference: mkzia](https://mkzia.github.io/eas503-notes/sql/sql_8_normalization.html)
